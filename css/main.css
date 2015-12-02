@@ -1,0 +1,72 @@
+body { 
+ padding-top: 51px;
+ font-family: 'Playfair Display', serif;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.main {
+	background: url(../img/greyzz.png);
+}
+
+.h1Intro {
+	margin-top: 0;
+}
+
+.containerMain {
+	padding: 2% 0;
+}
+
+.containerMain h4 {
+	line-height: 25px;
+}
+
+.center {
+	text-align: center;
+}
+
+a.navbar-brand {
+	font-family: 'Playfair Display SC', serif;
+	color: #fff !important;
+}
+
+li.booking a {
+	color: #fff !important;
+}
+
+.homeRight {
+	text-align: center;
+}
+
+.footer-bottom {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background: #222;
+	color: #999;
+	box-shadow: inset 0 7px 9px -7px rgba(255,255,255,1);
+}
+
+.footer-bottom a {
+	color: #999;
+}
+
+.brandBottom {
+	font-family: 'Playfair Display SC', serif;
+	color: #fff !important;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+}
+
+
+
+
